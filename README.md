@@ -1,2 +1,2 @@
 # Academia
-Some samples of my submissions at university
+Some sample(s) of my submissions at university
