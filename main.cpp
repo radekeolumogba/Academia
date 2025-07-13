@@ -1,4 +1,4 @@
-//  Blackjack game code.  Dr. Klein 6/20/2016
+//  Blackjack game code.  Dr. Klein Assignment 6/20/2016
 #include "Blackjack.h"
 #include <iostream>
 
